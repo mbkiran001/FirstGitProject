@@ -3,3 +3,8 @@ Hi,
 Added this file after the first commit.
 It is currently not being tracked as i write this line because
 I've just created it and not added to staging area.
+
+###
+Writing this para after my third commit. In my third(previous) commit 
+I've added the above para to commit.
+ 
