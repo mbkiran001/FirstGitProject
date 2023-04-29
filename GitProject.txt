@@ -2,3 +2,7 @@ Hi,
 
 This is my first paragraph. I've not yet done any commits.
 Going to do stage and do the first commit now.
+
+****
+Writing this line after making my first commit.
+Modified this file to make another commit.
