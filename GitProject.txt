@@ -1,0 +1,4 @@
+Hi, 
+
+This is my first paragraph. I've not yet done any commits.
+Going to do stage and do the first commit now.
